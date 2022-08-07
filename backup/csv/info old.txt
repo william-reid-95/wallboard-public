@@ -1,0 +1,414 @@
+
+Amazon Connect
+bill.reid@dxc.com 
+ English 
+
+
+
+
+
+Real-time metrics
+We are upgrading the Connect Real-Time Metrics Page. Migrations will start on 7/19/21 and all instances will be fully migrated by 9/19/21. Learn More.
+Last Update: Dec 13, 2021 5:10:50 PM  	
+Save
+: Hobart Agents and Queue Dashboard
+Agents
+Time range: midnight to now (Australia/Hobart)  
+Agent Login	Channels
+ rohit.hazara@dxc.com
+Voice
+ laura.henry@dxc.com
+Voice
+ debra.findlay@dxc.com
+Voice
+ jack.valetich@dxc.com
+Voice
+ seb.knevett@dxc.com
+Voice
+ zhongmin.ye@dxc.com
+Voice
+ nick.jackimowicz@dxc.com
+Voice
+ zhipeng.li@dxc.com
+Voice
+ ubadha.vazeele@dxc.com
+Voice
+ duane.dermody2@dxc.com
+Voice
+ amie.robertshaw@dxc.com
+Voice
+ tyler.kerslake@dxc.com
+Voice
+ daniel.benson@dxc.com
+Voice
+ zoe.obrien2@dxc.com
+Voice
+ kate.lisson@dxc.com
+Voice
+ deepak.singh9@dxc.com
+Voice
+ ningyuan.shen@dxc.com
+Voice
+ haifeng.xia@dxc.com
+Voice
+ tanisha.sheppard@dxc.com
+Voice
+ rhys.byard@dxc.com
+Voice
+ daniel.eastaway@dxc.com
+Voice
+ nicholas.mclean2@dxc.com
+Voice
+ bill.reid@dxc.com
+Voice
+Agent	Performance
+Activity
+Duration
+Agent Name
+Handled in
+Handled out
+AHT
+Callback contacts handled
+Outbound Call
+00:24:06
+Hazara, Rohit
+16
+13
+00:12:10
+-
+On contact
+00:13:33
+Henry, Laura
+13
+5
+00:09:17
+-
+Ticketing/Research
+00:02:26
+Findlay, Debra
+12
+-
+00:21:02
+-
+Offline Tasks
+00:26:12
+Valetich, Jacob
+12
+6
+00:16:10
+-
+Comfort Break
+00:02:30
+Knevett, Seb
+12
+2
+00:20:36
+-
+On contact
+00:05:53
+Ye, Zhongmin
+12
+4
+00:14:16
+-
+On contact
+00:14:00
+Jackimowicz, Nick
+11
+4
+00:15:08
+-
+On contact
+00:07:55
+Lee, Daymond
+11
+6
+00:15:02
+-
+Outbound Call
+01:23:47
+Vazeele, Ubadha
+10
+7
+00:16:33
+-
+On contact
+00:03:19
+Dermody, Duane
+10
+2
+00:20:11
+-
+Training/Coaching
+00:02:29
+Robertshaw, Amie
+9
+12
+00:13:09
+-
+Ticketing/Research
+00:03:26
+Kerslake, Tyler
+9
+3
+00:16:53
+-
+On contact
+00:13:34
+Benson, Daniel
+9
+6
+00:13:39
+-
+Available
+00:10:29
+O'brien, Zoe
+9
+1
+00:22:46
+-
+Ticketing/Research
+00:09:03
+Lisson, Kate
+8
+-
+00:42:56
+-
+On contact
+00:03:56
+Singh, Deepak
+8
+1
+00:30:20
+-
+On contact
+00:28:01
+Shen, Ningyuan
+8
+2
+00:30:19
+-
+Available
+00:08:20
+Xia, Haifeng
+8
+4
+00:16:29
+-
+Ticketing/Research
+00:05:01
+Sheppard, Tanisha
+6
+2
+00:28:20
+-
+On contact
+00:08:17
+Byard, Rhys
+6
+8
+00:15:22
+-
+Training/Coaching
+00:55:55
+Eastaway, Daniel
+5
+8
+00:19:28
+-
+Outbound Call
+00:03:42
+McLean, Nick
+5
+3
+00:27:12
+-
+Training/Coaching
+00:49:00
+Reid, Bill
+1
+10
+00:08:38
+-
+Rows per page: 
+50
+ 1-23 of 23  
+Note: Only routing profiles for which there was activity during the report time range are included in the report. Routing profiles without any activity are not included in the displayed report.
+HBA Queues
+Time range: midnight to now (Australia/Hobart)   
+Queues
+ Summary
+ CBA Desktop Business Apps New _Call Back
+ CBA Desktop Business Apps Existing _Call Back
+ CBA Desktop Commsee New _Call Back
+ CBA Desktop Commsee Existing _Call Back
+ CBA Desktop Hidden
+ CBA Desktop Pwd _ Call Back
+ CBA Desktop CommSee Existing
+ CBA Desktop Hardware Existing _Call Back
+ CBA Desktop Hardware New _Call Back
+ CBA Desktop CommSee New
+ CBA Desktop Business Apps Existing
+ CBA Desktop Business Apps New
+ CBA Desktop Pwd
+ CBA Desktop Hardware Existing
+ CBA Desktop Hardware New
+Agents	Performance
+Online
+NPT
+In queue
+Oldest
+Queued
+Handled
+Abandoned
+AHT
+SL 60 secs
+152
+72
+0	
+00:00:00
+1,898
+1,855
+117
+00:21:43
+60.12%
+10
+7
+0	
+00:00:00
+-
+-
+-
+-
+-
+10
+7
+0	
+00:00:00
+-
+-
+-
+-
+-
+14
+8
+0	
+00:00:00
+-
+-
+-
+-
+-
+14
+8
+0	
+00:00:00
+-
+-
+-
+-
+-
+24
+10
+0	
+00:00:00
+40
+39
+1
+00:20:39
+87.50%
+39
+11
+0	
+00:00:00
+-
+-
+-
+-
+-
+52
+27
+0	
+00:00:00
+88
+74
+14
+00:19:06
+31.82%
+52
+28
+0	
+00:00:00
+-
+-
+-
+-
+-
+52
+28
+0	
+00:00:00
+-
+-
+-
+-
+-
+52
+27
+0	
+00:00:00
+156
+138
+18
+00:21:17
+44.23%
+59
+33
+0	
+00:00:00
+90
+80
+10
+00:20:15
+54.44%
+59
+33
+0	
+00:00:00
+134
+129
+5
+00:20:45
+49.25%
+79
+31
+0	
+00:00:00
+677
+657
+29
+00:20:38
+67.50%
+104
+57
+0	
+00:00:00
+173
+161
+12
+00:22:42
+66.47%
+104
+57
+0	
+00:00:00
+540
+577
+28
+00:23:36
+59.63%
+Rows per page: 
+20
+ 1-15 of 15  
+Note: Only queues for which there was activity during the report time range are included in the report. Queues without any activity are not included in the displayed report.
+New table
